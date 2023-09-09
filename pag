@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!-- esta parte se refiere al lenguaje/idioma -->
+<html lang="en">
+<head>
+    <!-- Aqui va la  infomación importante pero no visible dentro del navegador -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- title se refiere al  titulo de la pagina -->
+    <title>Document</title>
+</head>
+        <body>
+
+        <!-- Lo que se va a visualizar-->
+             
+        <style>
+            body{
+                background-color: #46488c
+            }
+                </style>   
+             </body>
+             <img src="capterra.png" alt="">            
+        <!-- la etiqueta h1 es un encabezado y puede ir del 1 al 6-->
+            <h1
+            style="color   : #46488c
+            "
+            >Construye tu blog. adelante !
+            </h1>
+            <!-- p se refiere a un parrafo -->
+            <h1
+             style ="color : #8b8b8bcc;
+             "
+             >star publishing today with a <strong>7 days</strong>
+            </h1>
+            <h1
+            style =  "color : #fff"
+            ><strong>no creddit card</strong> require   
+            </h1>
+         <!-- Stronga es para pponerlo en negritas-->
+        <!--input se refire a   -->
+            <input
+            type="text">
+            <!-- en muchos caso se puede genrar archivos css dentro de html -->
+            <!-- style se refiere al estilo -->
+            <!-- link se refiere a  -->
+</body>
+</html>
